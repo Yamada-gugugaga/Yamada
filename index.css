@@ -1,0 +1,104 @@
+.bu {
+  display: flex;
+  background-color: black;
+  color: aqua;
+}
+
+nav {
+  display: flex;
+  align-items: center;
+  background-color: black;
+  gap: 350px;
+}
+a {
+  text-decoration: none;
+  color: aqua;
+}
+
+button {
+  background-color: coral;
+  border: 1px solid;
+  margin-bottom: 7px;
+  width: 100px;
+}
+.bbubub {
+  text-align: center;
+  color: chocolate;
+  background-color: black;
+  margin: 0px;
+}
+.nun {
+  gap: 40px;
+  color: rgb(255, 187, 0);
+  text-align: center;
+  display: flex;
+  font-size: 25px;
+  margin-left: 700px;
+}
+img {
+}
+#fd {
+  background-color: rgb(0, 0, 0);
+}
+hr {
+  width: 700px;
+  color: dimgrey;
+}
+img {
+}
+#gugl {
+  width: 100px;
+  background-color: black;
+  margin-left: 500px;
+}
+body {
+  background-color: black;
+}
+.bg {
+  color: chocolate;
+  text-align: center;
+  margin-left: 500px;
+  gap: 100px;
+}
+.cv {
+  margin-left: 500px;
+  color: white;
+}
+#bh {
+  text-align: center;
+  color: white;
+}
+.jn {
+  color: white;
+  background-color: rgb(2, 2, 86);
+  width: fit-content;
+  border-radius: 20px;
+  margin-right: 20px;
+}
+.lbl {
+  height: 200px;
+  width: 100%;
+  border-radius: 20;
+}
+button {
+  width: 80%;
+  margin-left: 75px;
+}
+.cf{
+  color: white;
+  text-align: center  ;
+}
+.bn{
+  background-color: chocolate;
+  color: azure;
+  width: 70px;
+}
+.nm{
+  color: white;
+  background-color: chocolate;
+  text-align: center;
+  padding: 30px;
+}
+.gugu{
+  color: white;
+}
