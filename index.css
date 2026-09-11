@@ -53,6 +53,8 @@ img {
 }
 body {
   background-color: black;
+  width:1000px;
+  margin:auto;
 }
 .bg {
   color: chocolate;
